@@ -1,6 +1,11 @@
-![Mansurow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mansurow&theme=dark&show_icons=true&count_private=true)
+<img src = "https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width = "40px" height = "40px">  <img src = "https://media4.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width = "40px" height = "40px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansurow&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<center>
+      <div>
+           <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mansurow&theme=algolia&show_icons=true&hide_border=true&count_private=true&layout=compact" /> </td>
+           <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansurow&theme=algolia&count_private=true&hide=html&layout=compact" /> </td>
+      </div>
+</center>
 <!--
 **Mansurow/Mansurow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
