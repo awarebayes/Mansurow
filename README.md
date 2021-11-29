@@ -13,7 +13,7 @@
       <img src = "https://media4.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width = "40px" height = "40px"> <img src = "https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width = "40px" height = "40px">
       <h2>Языки</h2>
       <img src = "https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width = "50px" height = "40px"> <img src = "https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width = "40px" height = "40px">
-      <h2>Фреймфорки</h2>
+      <h2>Фреймворки</h2>
       <img src = "https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width = "40px" height = "40px"> <img src = "https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width = "40px" height = "40px"> <img src = "https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width = "40px" height = "40px"> <img src = "https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width = "40px" height = "40px">
       <h2>Разное</h2>
       <img src = "https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width = "40px" height = "40px"> <img src = "https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width = "40px" height = "40px">
