@@ -24,7 +24,7 @@ In short about me:
 <h2>Языки</h2>
 <img src = "https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width = "40px" height = "40px"> <img src = "https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width = "40px" height = "40px"> <img src = "https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width = "50px" height = "40px"> <img src = "https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width = "40px" height = "40px"> <img src="https://img.icons8.com/nolan/40/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
 <h2>Фреймворки</h2>
-<img src = "https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width = "40px" height = "40px"> <img src = "https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width = "40px" height = "40px"> <img src="https://img.icons8.com/color/42/000000/npm.png"/>
+<img src = "https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width = "40px" height = "40px"> <img src = "https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width = "40px" height = "40px">
 <h2>Разное</h2>
 <img src="https://img.icons8.com/fluency/45/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/45/000000/linux.png"/> <img src="https://img.icons8.com/color/45/000000/office-365.png"/> <img src="https://img.icons8.com/dusk/45/000000/unity.png"/>  <img src="https://img.icons8.com/nolan/45/unreal-engine.png"/> <img src="https://img.icons8.com/color/45/000000/blender-3d.png"/>
 </div> 
