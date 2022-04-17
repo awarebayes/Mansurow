@@ -11,10 +11,10 @@
       
 In short about me:
 - I'm studing at [Bauman Moscow State University](https://bmstu.ru)
-- I graduated many courses of Programming sphere
+- I graduated many courses in the Programming sphere
 - I'm learning Androing development now
-- And Backend on Java yet
-- **I am open to getting involved in <u>new interesting</u> projects. Please write to the contacts above**
+- And Backend with Java yet
+- **I am open for cooperation in <u>new interesting</u> projects. Please reach out using the contacts above**
       
 <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansurow&theme=algolia&count_private=true&hide=html&layout=compact" />  
 
